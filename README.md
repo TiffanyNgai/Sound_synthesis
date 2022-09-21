@@ -14,3 +14,7 @@ Approach:
 - Synthesize the three base frequencies
 - Add harmonics to the fundamental structure of the waveform
 - Apply fade out
+
+Files: 
+- Target: nbc_chime.mp3
+- Synthesized output: synth_out_0919.wav
